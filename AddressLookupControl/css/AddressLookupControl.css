@@ -1,0 +1,25 @@
+#addressListBox {
+  overflow: auto;
+  height: 200px;
+  list-style-type: none;
+  text-align: justify;
+  width: fit-content;
+}
+
+#addressSearchBox {
+  width: auto;
+}
+
+.customControl {
+  text-align: justify;
+  margin: 2%;
+  width: 96% !important;
+}
+
+#lrclabel {
+  font-weight: 600;
+}
+
+#searchContainer {
+  margin-top: 4px;
+}
